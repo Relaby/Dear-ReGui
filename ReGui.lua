@@ -20,7 +20,7 @@ local ReGui = {
 
 	--// Configuration
 	Debug = false,
-	PrefabsId = 82889894037713,
+	PrefabsId = 118102203292835,
 	DefaultTitle = "Cry4pt Spy",
 	ContainerName = "Cry4pt Spy",
 	DoubleClickThreshold = 0.3,
