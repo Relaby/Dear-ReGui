@@ -19,8 +19,8 @@ local ReGui = {
 	Repository = "https://github.com/depthso/Dear-ReGui/",
 
 	--// Configuration
-	Debug = false,
-	PrefabsId = 118102203292835,
+	Debug = true,
+	PrefabsId = 76246418997296,
 	DefaultTitle = "Cry4pt Spy",
 	ContainerName = "Cry4pt Spy",
 	DoubleClickThreshold = 0.3,
